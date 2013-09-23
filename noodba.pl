@@ -4,7 +4,7 @@ use Getopt::Long;
 use POSIX qw(strftime);    
 Getopt::Long::Configure qw(no_ignore_case);    #
 
-# Don't buffer the output, print as you go
+
 select (STDOUT); $| = 1;
 select (STDERR); $| = 1;
 
@@ -286,7 +286,7 @@ sub print_usage {
 ==========================================================================================
 Info  :
         Created By noodba (www.noodba.com) .
-   References: orzdba.pl (zhuxu\@taobao.com) ; fc.pl by wwwf
+   References: orzdba.pl (zhuxu\@taobao.com) ; f.pl by wwwf
 Usage :
 Command line options :
 
