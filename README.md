@@ -18,7 +18,7 @@ oracle版本在10.2.0.5和11.2.0.3上测试过（应该10.2.0.1上都可以）�
 ==========================================================================================
 Info  :
         Created By noodba (www.noodba.com) .
-   References: orzdba.pl (zhuxu@taobao.com) ; free_con.pl by wwwf
+   References: orzdba.pl (zhuxu@taobao.com) ; fc.pl by wwwf
 Usage :
 Command line options :
 
