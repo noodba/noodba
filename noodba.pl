@@ -286,7 +286,7 @@ sub print_usage {
 ==========================================================================================
 Info  :
         Created By noodba (www.noodba.com) .
-   References: orzdba.pl (zhuxu\@taobao.com) ; free_con.pl by wwf
+   References: orzdba.pl (zhuxu\@taobao.com) ; fc.pl by wwwf
 Usage :
 Command line options :
 
