@@ -443,7 +443,7 @@ sub get_sysstat {
 	  SET PAGESIZE 1000
 	  set linesize 400
 	  col name for a100
-	  col value a200	  
+	  col value for a200	  
 	  select name, to_char(value) value from v\\\$sysstat ;
 	  exit
 	  !!`;
